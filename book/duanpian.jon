@@ -1,5 +1,5 @@
 {
-    "contents": [{"title": "简爱","titlesize": "20","titlecolor": "0x880088","describe": "简爱是一部谁谁的作品","describesize": "10","describecolor": "0x666600","image": "book/imglist/jianai.jpeg","fileurl": "book/booklist/简爱.txt"},
+    "contents": [{"title": "简爱","titlesize": "20","titlecolor": "0x880088","describe": "简爱是一部谁谁的作品","describesize": "10","describecolor": "0x666600","image": "book/imglist/jianai.jpg","fileurl": "book/booklist/jianai.txt"},
         {"title": "小王子","titlesize": "20","titlecolor": "0x983111","describe": "简爱是一部谁谁的作品","describesize": "10","describecolor": "0x777700","image": "url","fileurl": "url"},
         {"title": "傲慢与偏见","titlesize": "20","titlecolor": "0x0","describe": "傲慢与偏见是一部谁谁的作品","describesize": "10","describecolor": "0x777700","image": "url","fileurl": "url"},
         {"title": "傲慢与偏见2","titlesize": "20","titlecolor": "0x00880","describe": "傲慢与偏见是一部谁谁的作品","describesize": "10","describecolor": "0x777700","image": "url","fileurl": "url"},
