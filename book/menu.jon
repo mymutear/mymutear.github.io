@@ -1,0 +1,9 @@
+{
+    "menu": [{"title": "短篇","titlesize": "15","titlecolor": "0x880088","image":"book/imglist/jianai.jpg","fileurl": "book/duanpian.jon"},
+        {"title": "中篇","titlesize": "15","titlecolor": "0x983111","image":"book/imglist/jianai.jpg","fileurl": "book/zhongpian.jon"},
+        {"title": "长篇","titlesize": "15","titlecolor": "0x0","image":"book/imglist/jianai.jpg","fileurl": "book/changpian.jon"},
+        {"title": "中文","titlesize": "15","titlecolor": "0x00880","image": "book/imglist/jianai.jpg","fileurl": "book/zhongwen.jon"},
+        {"title": "最近添加","titlesize": "15","titlecolor": "0x0006611","image": "book/imglist/jianai.jpg","fileurl": "book/nearadd.jon"},
+        {"title": "推荐阅读","titlesize": "15","titlecolor": "0x000023","image": "book/imglist/jianai.jpg","fileurl": "book/tuijian.jon"},
+    ]
+}
