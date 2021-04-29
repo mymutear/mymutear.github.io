@@ -1,9 +1,10 @@
 {
     "contents": [{"title": "简爱","titlesize": "20","titlecolor": "0x880088","describe": "简爱是一部谁谁的作品","describesize": "10","describecolor": "0x666600","image": "book/imglist/jianai.jpg","fileurl": "book/booklist/jianai.txt"},
-        {"title": "小王子","titlesize": "20","titlecolor": "0x983111","describe": "简爱是一部谁谁的作品","describesize": "10","describecolor": "0x777700","image": "book/imglist/jianai.jpg","fileurl": "url"},
-        {"title": "傲慢与偏见","titlesize": "20","titlecolor": "0x0","describe": "傲慢与偏见是一部谁谁的作品","describesize": "10","describecolor": "0x777700","image": "book/imglist/jianai.jpg","fileurl": "url"},
-        {"title": "傲慢与偏见2","titlesize": "20","titlecolor": "0x00880","describe": "傲慢与偏见是一部谁谁的作品","describesize": "10","describecolor": "0x777700","image": "book/imglist/jianai.jpg","fileurl": "url"},
-        {"title": "傲慢与偏见3","titlesize": "20","titlecolor": "0x0006611","describe": "傲慢与偏见是一部谁谁的作品","describesize": "10","describecolor": "0x777700","image": "book/imglist/jianai.jpg","fileurl": "url"},
-        {"title": "傲慢与偏见4","titlesize": "20","titlecolor": "0x000023","describe": "傲慢与偏见是一部谁谁的作品","describesize": "10","describecolor": "0x777700","image": "book/imglist/jianai.jpg","fileurl": "url"},
+        {"title": "Jemina, the Mountain Girl","titlesize": "20","titlecolor": "0x983111","describe": "美国作家弗朗西斯·斯科特·基·菲茨杰拉德","describesize": "10","describecolor": "0x777700","image": "book/imglist/Jemina, the Mountain Girl","fileurl": "book/booklist/Jemina, the Mountain Girl.zip"},
+        {"title": "Evil allures, but good endures","titlesize": "20","titlecolor": "0x0","describe": "列夫·尼古拉耶维奇·托尔斯泰","describesize": "10","describecolor": "0x777700","image": "book/imglist/Evil allures, but good endures.jpg","fileurl": "book/booklist/Evil allures, but good endures.zip"},
+        {"title": "Little Girls Wiser Than Men","titlesize": "20","titlecolor": "0x00880","describe": "列夫·尼古拉耶维奇·托尔斯泰","describesize": "10","describecolor": "0x777700","image": "book/imglist/Little Girls Wiser Than Men.jpg","fileurl": "book/booklist/Little Girls Wiser Than Men.zip"},
+        {"title": "The Young Tsar","titlesize": "20","titlecolor": "0x0006611","describe": "列夫·尼古拉耶维奇·托尔斯泰","describesize": "10","describecolor": "0x777700","image": "book/imglist/The Young Tsar.jpg","fileurl": "book/booklist/The Young Tsar.zip"},
+        {"title": "The Most Dangerous Game","titlesize": "20","titlecolor": "0x000023","describe": "<最危险的游戏> 作者：Richard Connell","describesize": "10","describecolor": "0x777700","image": "book/imglist/The Most Dangerous Game.jpg","fileurl": "book/booklist/The Most Dangerous Game.zip"},
+        {"title": "A Kidnapped Santa Claus","titlesize": "20","titlecolor": "0x000023","describe": "中文名：被绑架的圣诞老人 作者：莱曼·弗兰克·鲍姆","describesize": "10","describecolor": "0x777700","image": "book/imglist/A Kidnapped Santa Claus.jpg","fileurl": "book/booklist/A Kidnapped Santa Claus.zip"},
     ]
 }
