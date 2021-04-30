@@ -1,0 +1,18 @@
+{
+    "contents": [
+        {"title": "《汤姆·索亚历险记》","titlesize": "20","titlecolor": "0x000023","describe": "作者:马克·吐温 小说的故事发生在19世纪上半世纪美国密西西比河畔的一个普通小镇上。\n主人公汤姆·索亚天真活泼、敢于探险、追求自由，不堪忍受束缚个性、枯燥乏味的生活，幻想干一番英雄事业。": "10","describecolor": "0x777700","image": "book/imglist/TheAdventuresofTomSawyer.jpg","fileurl": "book/booklist/TheAdventuresofTomSawyer.zip"},
+                {"title": "Sky Island","titlesize": "20","titlecolor": "0x000023","describe": "作者:莱曼·弗兰克·鲍姆": "10","describecolor": "0x777700","image": "book/imglist/SkyIsland.jpg","fileurl": "book/booklist/SkyIsland.zip"},
+        
+         {"title": "勇敢的船长","titlesize": "20","titlecolor": "0x000023","describe": "作者:Rudyard Kipling": "10","describecolor": "0x777700","image": "book/imglist/CaptainsCourageous.jpg","fileurl": "book/booklist/CaptainsCourageous.zip"},
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                {"title": "战争的艺术","titlesize": "20","titlecolor": "0x000023","describe": "作者:[意] Nicolo Machiavelli": "10","describecolor": "0x777700","image": "book/imglist/TheArtofWar.jpg","fileurl": "book/booklist/TheArtofWar.zip"},
+    ]
+}
