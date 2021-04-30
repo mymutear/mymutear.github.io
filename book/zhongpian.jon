@@ -18,7 +18,7 @@
         {"title": "The Marvelous Land of Oz","titlesize": "20","titlecolor": "0x000023","describe": "作者:莱曼·弗兰克·鲍姆","describesize": "10","describecolor": "0x777700","image": "book/imglist/TheMarvelousLandofOz.jpg","fileurl": "book/booklist/TheMarvelousLandofOz.zip"},
         {"title": "The Patch work Girl of Oz","titlesize": "20","titlecolor": "0x000023","describe": "作者:莱曼·弗兰克·鲍姆","describesize": "10","describecolor": "0x777700","image": "book/imglist/ThePatchworkGirlofOz.jpg","fileurl": "book/booklist/ThePatchworkGirlofOz.zip"},
         {"title": "海的童话","titlesize": "20","titlecolor": "0x000023","describe": "作者:莱曼·弗兰克·鲍姆","describesize": "10","describecolor": "0x777700","image": "book/imglist/TheSeaFairies.png","fileurl": "book/booklist/TheSeaFairies.zip"},
-        {"title": "The Tin Woodman of Oz","titlesize": "20","titlecolor": "0x000023","describe": "作者:莱曼·弗兰克·鲍姆","describesize": "10","describecolor": "0x777700","image": "book/imglist/TheTinWoodmanofOz.png","fileurl": "book/booklist/TheTinWoodmanofOz.zip"},
+        {"title": "The Tin Woodman of Oz","titlesize": "20","titlecolor": "0x000023","describe": "作者:莱曼·弗兰克·鲍姆","describesize": "10","describecolor": "0x777700","image": "book/imglist/TheTinWoodmanofOz.jpg","fileurl": "book/booklist/TheTinWoodmanofOz.zip"},
        
         {"title": "君主论","titlesize": "20","titlecolor": "0x000023","describe": "作者:[意] Nicolo Machiavelli","describesize": "10","describecolor": "0x777700","image": "book/imglist/ThePrince.jpg","fileurl": "book/booklist/ThePrince.zip"},
         {"title": "原来如此的故事","titlesize": "20","titlecolor": "0x000023","describe": "作者:Rudyard Kipling","describesize": "10","describecolor": "0x777700","image": "book/imglist/JustsoStories.jpg","fileurl": "book/booklist/JustsoStories.zip"},
