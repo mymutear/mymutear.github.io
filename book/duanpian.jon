@@ -1,5 +1,5 @@
 {
-    "contents": [{"title": "简爱","titlesize": "20","titlecolor": "0x880088","describe": "简爱是一部谁谁的作品","describesize": "10","describecolor": "0x666600","image": "book/imglist/jianai.jpg","fileurl": "book/booklist/jianai.txt"},
+    "contents": [{"title": "The Cenci","titlesize": "20","titlecolor": "0x880088","describe": "法国作家大仲马","describesize": "10","describecolor": "0x666600","image": "book/imglist/TheCenci.jpg","fileurl": "book/booklist/TheCenci.zip"},
         {"title": "Jemina, the Mountain Girl","titlesize": "20","titlecolor": "0x983111","describe": "美国作家弗朗西斯·斯科特·基·菲茨杰拉德","describesize": "10","describecolor": "0x777700","image": "book/imglist/JeminatheMountainGirl.jpg","fileurl": "book/booklist/JeminatheMountainGirl.zip"},
         {"title": "Evil allures, but good endures","titlesize": "20","titlecolor": "0x0","describe": "列夫·尼古拉耶维奇·托尔斯泰","describesize": "10","describecolor": "0x777700","image": "book/imglist/Evilalluresbutgoodendures.jpg","fileurl": "book/booklist/Evilalluresbutgoodendures.txt"},
         {"title": "Little Girls Wiser Than Men","titlesize": "20","titlecolor": "0x00880","describe": "列夫·尼古拉耶维奇·托尔斯泰","describesize": "10","describecolor": "0x777700","image": "book/imglist/LittleGirlsWiserThanMen.jpg","fileurl": "book/booklist/LittleGirlsWiserThanMen.zip"},
