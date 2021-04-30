@@ -1,0 +1,8 @@
+{
+    "contents": [ 
+        {"title": "《出航》","titlesize": "20","titlecolor": "0x000023","describe": "作者:弗吉尼亚·伍尔夫","describesize": "10","describecolor": "0x777700","image": "book/imglist/TheVoyageOut.jpg","fileurl": "book/booklist/TheVoyageOut.zip"},
+        {"title": "《海浪》","titlesize": "20","titlecolor": "0x000023","describe": "作者:弗吉尼亚·伍尔夫","describesize": "10","describecolor": "0x777700","image": "book/imglist/TheWaves.jpg","fileurl": "book/booklist/TheWaves.zip"},
+        {"title": "《岁月》","titlesize": "20","titlecolor": "0x000023","describe": "作者:弗吉尼亚·伍尔夫","describesize": "10","describecolor": "0x777700","image": "book/imglist/TheYears.jpg","fileurl": "book/booklist/TheYears.zip"},
+        
+    ]
+}
