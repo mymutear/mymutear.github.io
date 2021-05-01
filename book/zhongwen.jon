@@ -1,6 +1,20 @@
 {
-    "contents": [
-        {"title": "《補天》","titlesize": "20","titlecolor": "0x000023","describe": "作者:鲁迅","describesize": "10","describecolor": "0x777700","image": "book/imglist/TheVoyageOut.jpg","fileurl": "book/booklist/BuTian.txt"}, 
-        
+    "contents": [{"title": "《彷徨》","titlesize": "20","titlecolor": "0x000023","describe": "作者:鲁迅","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/panghuang.zip"}, 
+        {"title": "《呐喊》","titlesize": "20","titlecolor": "0x000023","describe": "作者:鲁迅","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/nahan.zip"}, 
+       {"title": "《補天》","titlesize": "20","titlecolor": "0x000023","describe": "作者:鲁迅","describesize": "10","describecolor": "0x777700","image": "book/imglist/TheVoyageOut.jpg","fileurl": "book/booklist/BuTian.txt"}, 
+        {"title": "《儒林外史》","titlesize": "20","titlecolor": "0x000023","describe": "作者:吴敬梓","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/rulinwaishi.zip"},
+        {"title": "《世说新语》","titlesize": "20","titlecolor": "0x000023","describe": "作者:刘义庆〔南朝.宋〕","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/sishuoxinyu.zip"},
+        {"title": "《西游记》","titlesize": "20","titlecolor": "0x000023","describe": "作者:吴承恩 ","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/xiyouji.zip"},
+   {"title": "《北雁南飞》","titlesize": "20","titlecolor": "0x000023","describe": "作者:张恨水 ","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/yannanfei.zip"},
+   {"title": "《大唐西域记》","titlesize": "20","titlecolor": "0x000023","describe": "《大唐西域记》又称《西域记》，是由唐代玄奘口述、辩机编的地理史籍，成书于唐贞观二十年（646 年） ","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/datangxiyuji.zip"},
+   {"title": "《官场现形记》","titlesize": "20","titlecolor": "0x000023","describe": "作者:李宝嘉 ","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/guanchangxinxingji.zip"},
+   {"title": "《初刻拍案惊奇》","titlesize": "20","titlecolor": "0x000023","describe": "作者:凌濛初 ","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/chukepaianjq.zip"},
+    {"title": "《聊斋志异》","titlesize": "20","titlecolor": "0x000023","describe": "作者:凌濛初 ","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/liaozhayizi.zip"},
+   {"title": "《绿野仙踪》","titlesize": "20","titlecolor": "0x000023","describe": "作者:李百川 ","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/lvyexianzhong.zip"},
+      {"title": "《三国演义》","titlesize": "20","titlecolor": "0x000023","describe": "作者:罗贯中","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/sanguoyanyi.zip"},
+    {"title": "《醒世恒言》","titlesize": "20","titlecolor": "0x000023","describe": "作者:冯梦龙","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/xingshihengyan.zip"},
+     {"title": "《喻世明言》","titlesize": "20","titlecolor": "0x000023","describe": "作者:冯梦龙","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/yushimingyan.zip"},
+    {"title": "《今古奇观》","titlesize": "20","titlecolor": "0x000023","describe": "作者:陈治平、孙轩辕、陈文","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/gujinqiguan.zip"},
+    {"title": "《啼笑因缘》","titlesize": "20","titlecolor": "0x000023","describe": "作者:张恨水","describesize": "10","describecolor": "0x777700","image": "","fileurl": "book/booklist/tixiaoyinyan.zip"},
     ]
 }
